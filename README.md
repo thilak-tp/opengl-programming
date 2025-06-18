@@ -36,4 +36,6 @@ After all the above, go to Project and Export temple -> give the template a name
 
 ### Programs
 1. basic-GLFW-window-color - A basic program that opens a GLFW Window and Colors that Window Red.
+![screenshot](resources/p1.png)
 2. point - A basic program with a vertex shader and a fragment shader to draw a Vertex on the Window
+![screenshot](resources/p2.png)
