@@ -1,4 +1,5 @@
 # OpenGL - Graphics Programming
+![screenshot](resources/gllogo.png)
 In this repo I dive into OpenGL Graphics Programming
 
 ### References Used
@@ -35,3 +36,4 @@ After all the above, go to Project and Export temple -> give the template a name
 
 ### Programs
 1. basic-GLFW-window-color - A basic program that opens a GLFW Window and Colors that Window Red.
+2. point - A basic program with a vertex shader and a fragment shader to draw a Vertex on the Window
