@@ -33,3 +33,5 @@ After all the above, go to Project and Export temple -> give the template a name
 
 
 
+### Programs
+1. basic-GLFW-window-color - A basic program that opens a GLFW Window and Colors that Window Red.
