@@ -1,0 +1,6 @@
+﻿  main.cpp
+D:\Projects\C++ Development\Graphics Programming\Projects\point\point\main.cpp(94,6): warning C4101: 'height': unreferenced local variable
+D:\Projects\C++ Development\Graphics Programming\Projects\point\point\main.cpp(94,14): warning C4101: 'width': unreferenced local variable
+  point.vcxproj -> D:\Projects\C++ Development\Graphics Programming\Projects\point\x64\Debug\point.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
