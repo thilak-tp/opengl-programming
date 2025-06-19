@@ -39,3 +39,5 @@ After all the above, go to Project and Export temple -> give the template a name
 ![screenshot](resources/p1.png)
 2. point - A basic program with a vertex shader and a fragment shader to draw a Vertex on the Window
 ![screenshot](resources/p2.png)
+3. triangle - A basic program with a vertex shader and a fragment shader to draw a triangle using three vertices.
+![screenshot](resources/p3.png)
